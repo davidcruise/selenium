@@ -1,6 +1,6 @@
 from selenium import webdriver
 
-chromedriver = "/Users/junyuliu/Desktop/seleniumtest-master/seleniumtest/chromedriver"
+chromedriver = "/Users/junyuliu/Desktop/selenium-master/seleniumtest/chromedriver"
 driver = webdriver.Chrome(chromedriver)
 #driver.get("http://stackoverflow.com")
 
